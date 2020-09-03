@@ -1,0 +1,17 @@
+README.md
+setup.py
+wikiwwii/__init__.py
+wikiwwii.egg-info/PKG-INFO
+wikiwwii.egg-info/SOURCES.txt
+wikiwwii.egg-info/dependency_links.txt
+wikiwwii.egg-info/requires.txt
+wikiwwii.egg-info/top_level.txt
+wikiwwii/collect/__init__.py
+wikiwwii/collect/battles.py
+wikiwwii/collect/fronts.py
+wikiwwii/parse/__init__.py
+wikiwwii/parse/bellengerets.py
+wikiwwii/parse/casualties.py
+wikiwwii/parse/dates.py
+wikiwwii/parse/geocode.py
+wikiwwii/parse/qa.py
